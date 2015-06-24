@@ -1,0 +1,3 @@
+Fichier fichier2.txt
+
+-1- Création du fichier2.txt
